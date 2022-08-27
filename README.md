@@ -11,6 +11,6 @@ A simple, robust and fast method for the perspective-n-point Problem,
 
 Pattern Recognition Letters(PR letters), vol. 108, pp. 31-37, 2018.
 
-Contact: pingwangsky@gmail.com
+Contact: pingwangsky@163.com
 
 My site: https://sites.google.com/view/ping-wang-homepage
